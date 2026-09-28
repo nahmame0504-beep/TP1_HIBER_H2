@@ -4,7 +4,7 @@ Ce projet est une application Java basique développée dans le cadre du cours *
 
 ---
 
-## 🎯 Objectifs du TP
+##  Objectifs du TP
 
 - **Création du projet Maven** : Structuration de l'application.
 - **Configuration des dépendances** : Intégration d'Hibernate et du pilote H2 via `pom.xml`.
@@ -14,7 +14,7 @@ Ce projet est une application Java basique développée dans le cadre du cours *
 
 ---
 
-## 🛠️ Prérequis & Technologies
+##  Prérequis & Technologies
 
 - **Java Development Kit (JDK)** : 11 ou plus récent
 - **Build Tool** : Apache Maven
@@ -24,7 +24,7 @@ Ce projet est une application Java basique développée dans le cadre du cours *
 
 ---
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```text
 TP1_HIBER_H2/
